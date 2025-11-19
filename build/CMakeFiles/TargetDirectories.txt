@@ -1,0 +1,3 @@
+/media/phillip/Assets/PhilsFMCPlusPlus/build/CMakeFiles/RonnyShrine.dir
+/media/phillip/Assets/PhilsFMCPlusPlus/build/CMakeFiles/edit_cache.dir
+/media/phillip/Assets/PhilsFMCPlusPlus/build/CMakeFiles/rebuild_cache.dir

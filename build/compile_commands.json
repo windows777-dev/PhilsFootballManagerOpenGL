@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/media/phillip/Assets/PhilsFMCPlusPlus/build",
+  "command": "/usr/bin/g++  -I/media/phillip/Assets/PhilsFMCPlusPlus/include -I/media/phillip/Assets/PhilsFMCPlusPlus/imgui -g -std=gnu++17 -o CMakeFiles/RonnyShrine.dir/main.cpp.o -c /media/phillip/Assets/PhilsFMCPlusPlus/main.cpp",
+  "file": "/media/phillip/Assets/PhilsFMCPlusPlus/main.cpp",
+  "output": "CMakeFiles/RonnyShrine.dir/main.cpp.o"
+},
+{
+  "directory": "/media/phillip/Assets/PhilsFMCPlusPlus/build",
+  "command": "/usr/bin/g++  -I/media/phillip/Assets/PhilsFMCPlusPlus/include -I/media/phillip/Assets/PhilsFMCPlusPlus/imgui -g -std=gnu++17 -o CMakeFiles/RonnyShrine.dir/include/texture.cpp.o -c /media/phillip/Assets/PhilsFMCPlusPlus/include/texture.cpp",
+  "file": "/media/phillip/Assets/PhilsFMCPlusPlus/include/texture.cpp",
+  "output": "CMakeFiles/RonnyShrine.dir/include/texture.cpp.o"
+},
+{
+  "directory": "/media/phillip/Assets/PhilsFMCPlusPlus/build",
+  "command": "/usr/bin/gcc  -I/media/phillip/Assets/PhilsFMCPlusPlus/include -I/media/phillip/Assets/PhilsFMCPlusPlus/imgui -g -o CMakeFiles/RonnyShrine.dir/glad.c.o -c /media/phillip/Assets/PhilsFMCPlusPlus/glad.c",
+  "file": "/media/phillip/Assets/PhilsFMCPlusPlus/glad.c",
+  "output": "CMakeFiles/RonnyShrine.dir/glad.c.o"
+},
+{
+  "directory": "/media/phillip/Assets/PhilsFMCPlusPlus/build",
+  "command": "/usr/bin/g++  -I/media/phillip/Assets/PhilsFMCPlusPlus/include -I/media/phillip/Assets/PhilsFMCPlusPlus/imgui -g -std=gnu++17 -o CMakeFiles/RonnyShrine.dir/shape.cpp.o -c /media/phillip/Assets/PhilsFMCPlusPlus/shape.cpp",
+  "file": "/media/phillip/Assets/PhilsFMCPlusPlus/shape.cpp",
+  "output": "CMakeFiles/RonnyShrine.dir/shape.cpp.o"
+},
+{
+  "directory": "/media/phillip/Assets/PhilsFMCPlusPlus/build",
+  "command": "/usr/bin/g++  -I/media/phillip/Assets/PhilsFMCPlusPlus/include -I/media/phillip/Assets/PhilsFMCPlusPlus/imgui -g -std=gnu++17 -o CMakeFiles/RonnyShrine.dir/imgui/imgui.cpp.o -c /media/phillip/Assets/PhilsFMCPlusPlus/imgui/imgui.cpp",
+  "file": "/media/phillip/Assets/PhilsFMCPlusPlus/imgui/imgui.cpp",
+  "output": "CMakeFiles/RonnyShrine.dir/imgui/imgui.cpp.o"
+},
+{
+  "directory": "/media/phillip/Assets/PhilsFMCPlusPlus/build",
+  "command": "/usr/bin/g++  -I/media/phillip/Assets/PhilsFMCPlusPlus/include -I/media/phillip/Assets/PhilsFMCPlusPlus/imgui -g -std=gnu++17 -o CMakeFiles/RonnyShrine.dir/imgui/imgui_draw.cpp.o -c /media/phillip/Assets/PhilsFMCPlusPlus/imgui/imgui_draw.cpp",
+  "file": "/media/phillip/Assets/PhilsFMCPlusPlus/imgui/imgui_draw.cpp",
+  "output": "CMakeFiles/RonnyShrine.dir/imgui/imgui_draw.cpp.o"
+},
+{
+  "directory": "/media/phillip/Assets/PhilsFMCPlusPlus/build",
+  "command": "/usr/bin/g++  -I/media/phillip/Assets/PhilsFMCPlusPlus/include -I/media/phillip/Assets/PhilsFMCPlusPlus/imgui -g -std=gnu++17 -o CMakeFiles/RonnyShrine.dir/imgui/imgui_tables.cpp.o -c /media/phillip/Assets/PhilsFMCPlusPlus/imgui/imgui_tables.cpp",
+  "file": "/media/phillip/Assets/PhilsFMCPlusPlus/imgui/imgui_tables.cpp",
+  "output": "CMakeFiles/RonnyShrine.dir/imgui/imgui_tables.cpp.o"
+},
+{
+  "directory": "/media/phillip/Assets/PhilsFMCPlusPlus/build",
+  "command": "/usr/bin/g++  -I/media/phillip/Assets/PhilsFMCPlusPlus/include -I/media/phillip/Assets/PhilsFMCPlusPlus/imgui -g -std=gnu++17 -o CMakeFiles/RonnyShrine.dir/imgui/imgui_widgets.cpp.o -c /media/phillip/Assets/PhilsFMCPlusPlus/imgui/imgui_widgets.cpp",
+  "file": "/media/phillip/Assets/PhilsFMCPlusPlus/imgui/imgui_widgets.cpp",
+  "output": "CMakeFiles/RonnyShrine.dir/imgui/imgui_widgets.cpp.o"
+},
+{
+  "directory": "/media/phillip/Assets/PhilsFMCPlusPlus/build",
+  "command": "/usr/bin/g++  -I/media/phillip/Assets/PhilsFMCPlusPlus/include -I/media/phillip/Assets/PhilsFMCPlusPlus/imgui -g -std=gnu++17 -o CMakeFiles/RonnyShrine.dir/imgui/imgui_impl_glfw.cpp.o -c /media/phillip/Assets/PhilsFMCPlusPlus/imgui/imgui_impl_glfw.cpp",
+  "file": "/media/phillip/Assets/PhilsFMCPlusPlus/imgui/imgui_impl_glfw.cpp",
+  "output": "CMakeFiles/RonnyShrine.dir/imgui/imgui_impl_glfw.cpp.o"
+},
+{
+  "directory": "/media/phillip/Assets/PhilsFMCPlusPlus/build",
+  "command": "/usr/bin/g++  -I/media/phillip/Assets/PhilsFMCPlusPlus/include -I/media/phillip/Assets/PhilsFMCPlusPlus/imgui -g -std=gnu++17 -o CMakeFiles/RonnyShrine.dir/imgui/imgui_impl_opengl3.cpp.o -c /media/phillip/Assets/PhilsFMCPlusPlus/imgui/imgui_impl_opengl3.cpp",
+  "file": "/media/phillip/Assets/PhilsFMCPlusPlus/imgui/imgui_impl_opengl3.cpp",
+  "output": "CMakeFiles/RonnyShrine.dir/imgui/imgui_impl_opengl3.cpp.o"
+}
+]
